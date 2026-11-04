@@ -1,0 +1,392 @@
+#EXTM3U x-rtp://-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTINF:-1 rtp://-id="湖南卫视" rtp://-name="湖南卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000219/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南卫视4K3
+http://192.168.2.1:5140/rtp/239.76.253.62:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.224:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.214:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.100:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.136:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="江苏卫视" rtp://-name="江苏卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000664/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",江苏卫视4K
+http://192.168.2.1:5140/rtp/239.76.254.216:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.218:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="浙江卫视" rtp://-name="浙江卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000666/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",浙江卫视4K
+http://192.168.2.1:5140/rtp/239.76.254.220:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.222:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="东方卫视" rtp://-name="东方卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000668/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",东方卫视4K
+http://192.168.2.1:5140/rtp/239.76.254.224:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.226:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="北京卫视" rtp://-name="北京卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000638/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",北京卫视4K
+http://192.168.2.1:5140/rtp/239.76.253.246:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.150:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="四川卫视" rtp://-name="四川卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000672/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",四川卫视4K
+http://192.168.2.1:5140/rtp/239.76.254.232:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.234:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="山东卫视" rtp://-name="山东卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000670/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",山东卫视4K
+http://192.168.2.1:5140/rtp/239.76.254.228:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.230:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="广东卫视" rtp://-name="广东卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000658/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",广东卫视4K
+http://192.168.2.1:5140/rtp/239.76.254.138:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.139:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="深圳卫视" rtp://-name="深圳卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳卫视4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000656/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",深圳卫视4K
+http://192.168.2.1:5140/rtp/239.76.254.137:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV4K" rtp://-name="CCTV4K" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" group-title="4K频道",CCTV4K-超高清
+http://192.168.2.1:5140/rtp/239.76.254.101:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.64:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV16" rtp://-name="CCTV16" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000508/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV16-奥林匹克4K
+http://192.168.2.1:5140/rtp/239.76.254.200:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.230:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="欢笑剧场4K" rtp://-name="欢笑剧场4K" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/欢笑剧场4K.png" group-title="4K频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000577/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",欢笑剧场4K
+http://192.168.2.1:5140/rtp/239.76.253.43:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.254.66:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV1" rtp://-name="CCTV1" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000063/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV1-综合
+http://192.168.2.1:5140/rtp/239.76.253.151:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV2" rtp://-name="CCTV2" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV2.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000129/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV2-财经
+http://192.168.2.1:5140/rtp/239.76.253.152:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV3" rtp://-name="CCTV3" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000124/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV3-综艺
+http://192.168.2.1:5140/rtp/239.76.253.153:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV4" rtp://-name="CCTV4" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000204/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV4-中文国际
+http://192.168.2.1:5140/rtp/239.76.253.154:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV4欧洲" rtp://-name="CCTV4欧洲" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4欧洲.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000495/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV4-中文国际欧洲
+http://192.168.2.1:5140/rtp/239.76.253.95:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV4美洲" rtp://-name="CCTV4美洲" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4美洲.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000496/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV4-中文国际美洲
+http://192.168.2.1:5140/rtp/239.76.253.96:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV5" rtp://-name="CCTV5" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000548/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV5-体育
+http://192.168.2.1:5140/rtp/239.76.254.214:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.155:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV5+" rtp://-name="CCTV5+" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000549/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV5+-体育赛事
+http://192.168.2.1:5140/rtp/239.76.254.215:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.168:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV6" rtp://-name="CCTV6" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000126/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV6-电影
+http://192.168.2.1:5140/rtp/239.76.253.156:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV7" rtp://-name="CCTV7" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV7.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000130/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV7-国防军事
+http://192.168.2.1:5140/rtp/239.76.253.157:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV8" rtp://-name="CCTV8" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000127/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV8-电视剧
+http://192.168.2.1:5140/rtp/239.76.253.158:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV9" rtp://-name="CCTV9" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV9.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000131/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV9-纪录
+http://192.168.2.1:5140/rtp/239.76.253.159:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV10" rtp://-name="CCTV10" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV10.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000132/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV10-科教
+http://192.168.2.1:5140/rtp/239.76.253.160:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV11" rtp://-name="CCTV11" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV11.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000389/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV11-戏曲
+http://192.168.2.1:5140/rtp/239.76.252.251:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV12" rtp://-name="CCTV12" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV12.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000133/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV12-社会与法
+http://192.168.2.1:5140/rtp/239.76.253.162:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV13" rtp://-name="CCTV13" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV13.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000460/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV13-新闻
+http://192.168.2.1:5140/rtp/239.76.253.93:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV14" rtp://-name="CCTV14" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000134/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV14-少儿
+http://192.168.2.1:5140/rtp/239.76.253.164:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV15" rtp://-name="CCTV15" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV15.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000390/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV15-音乐
+http://192.168.2.1:5140/rtp/239.76.252.252:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV16" rtp://-name="CCTV16" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000501/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV16-奥林匹克
+http://192.168.2.1:5140/rtp/239.76.253.98:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV16" rtp://-name="CCTV16" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000508/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV16-奥林匹克4K
+http://192.168.2.1:5140/rtp/239.76.254.200:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV17" rtp://-name="CCTV17" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000382/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV17-农业农村
+http://192.168.2.1:5140/rtp/239.76.252.238:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV4K" rtp://-name="CCTV4K" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" group-title="央视频道",CCTV4K-超高清
+http://192.168.2.1:5140/rtp/239.76.254.101:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV8K" rtp://-name="CCTV8K" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png" group-title="央视频道",CCTV8K-超高清
+http://192.168.2.1:5140/rtp/239.76.254.199:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="第一剧场" rtp://-name="第一剧场" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/第一剧场.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000517/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",第一剧场
+http://192.168.2.1:5140/rtp/239.76.254.49:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="风云足球" rtp://-name="风云足球" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000520/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",风云足球
+http://192.168.2.1:5140/rtp/239.76.254.52:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="风云音乐" rtp://-name="风云音乐" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云音乐.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000519/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",风云音乐
+http://192.168.2.1:5140/rtp/239.76.254.51:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="风云剧场" rtp://-name="风云剧场" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云剧场.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000518/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",风云剧场
+http://192.168.2.1:5140/rtp/239.76.254.50:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="女性时尚" rtp://-name="女性时尚" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/女性时尚.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000522/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",女性时尚
+http://192.168.2.1:5140/rtp/239.76.254.55:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="央视文化精品" rtp://-name="央视文化精品" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/央视文化精品.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000523/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",央视文化精品
+http://192.168.2.1:5140/rtp/239.76.254.56:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="世界地理" rtp://-name="世界地理" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000524/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",世界地理
+http://192.168.2.1:5140/rtp/239.76.254.57:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="兵器科技" rtp://-name="兵器科技" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/兵器科技.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000526/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",兵器科技
+http://192.168.2.1:5140/rtp/239.76.254.59:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="央视台球" rtp://-name="央视台球" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/央视台球.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000525/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",央视台球
+http://192.168.2.1:5140/rtp/239.76.254.58:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="怀旧剧场" rtp://-name="怀旧剧场" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/怀旧剧场.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000521/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",怀旧剧场
+http://192.168.2.1:5140/rtp/239.76.254.53:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="高尔夫网球" rtp://-name="高尔夫网球" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/高尔夫网球.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000528/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",高尔夫网球
+http://192.168.2.1:5140/rtp/239.76.254.62:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="卫生健康" rtp://-name="卫生健康" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卫生健康.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000641/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",卫生健康
+http://192.168.2.1:5140/rtp/239.76.253.247:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="电视指南" rtp://-name="电视指南" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/电视指南.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000527/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",电视指南
+http://192.168.2.1:5140/rtp/239.76.254.61:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="中学生" rtp://-name="中学生" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中学生.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000561/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",中学生
+http://192.168.2.1:5140/rtp/239.76.254.27:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="老故事" rtp://-name="老故事" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000398/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",老故事
+http://192.168.2.1:5140/rtp/239.76.253.76:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CETV1" rtp://-name="CETV1" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000342/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CETV1
+http://192.168.2.1:5140/rtp/239.76.252.192:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CETV2" rtp://-name="CETV2" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000391/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CETV2
+http://192.168.2.1:5140/rtp/239.76.252.253:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CETV4" rtp://-name="CETV4" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000392/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CETV4
+http://192.168.2.1:5140/rtp/239.76.252.254:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CETV早期教育" rtp://-name="CETV早期教育" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV早期教育.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000563/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CETV早期教育
+http://192.168.2.1:5140/rtp/239.76.254.202:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CGTN" rtp://-name="CGTN" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000019/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CGTN
+http://192.168.2.1:5140/rtp/239.76.252.66:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CGTN纪录" rtp://-name="CGTN纪录" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN纪录.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000011/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CGTN纪录
+http://192.168.2.1:5140/rtp/239.76.252.67:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CGTN阿语" rtp://-name="CGTN阿语" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN阿语.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000497/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CGTN阿语
+http://192.168.2.1:5140/rtp/239.76.253.97:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CGTN西语" rtp://-name="CGTN西语" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN西语.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000410/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CGTN西语
+http://192.168.2.1:5140/rtp/239.76.253.88:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CGTN法语" rtp://-name="CGTN法语" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN法语.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000409/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CGTN法语
+http://192.168.2.1:5140/rtp/239.76.253.87:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CGTN俄语" rtp://-name="CGTN俄语" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN俄语.png" group-title="央视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000408/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CGTN俄语
+http://192.168.2.1:5140/rtp/239.76.253.86:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南卫视" rtp://-name="湖南卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000233/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南卫视
+http://192.168.2.1:5140/rtp/239.76.253.100:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.252.115:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.101:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="凤凰中文" rtp://-name="凤凰中文" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰中文.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000431/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",凤凰中文
+http://192.168.2.1:5140/rtp/239.76.253.135:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="凤凰资讯" rtp://-name="凤凰资讯" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰资讯.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000432/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",凤凰资讯
+http://192.168.2.1:5140/rtp/239.76.253.134:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="江苏卫视" rtp://-name="江苏卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000070/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",江苏卫视
+http://192.168.2.1:5140/rtp/239.76.253.181:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="浙江卫视" rtp://-name="浙江卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000064/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",浙江卫视
+http://192.168.2.1:5140/rtp/239.76.253.182:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="东方卫视" rtp://-name="东方卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000069/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",东方卫视
+http://192.168.2.1:5140/rtp/239.76.253.186:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="北京卫视" rtp://-name="北京卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000065/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",北京卫视
+http://192.168.2.1:5140/rtp/239.76.253.184:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="天津卫视" rtp://-name="天津卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000123/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",天津卫视
+http://192.168.2.1:5140/rtp/239.76.253.185:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="东南卫视" rtp://-name="东南卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000336/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",东南卫视
+http://192.168.2.1:5140/rtp/239.76.252.190:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="安徽卫视" rtp://-name="安徽卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000345/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",安徽卫视
+http://192.168.2.1:5140/rtp/239.76.252.196:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="广东卫视" rtp://-name="广东卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000335/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",广东卫视
+http://192.168.2.1:5140/rtp/239.76.252.189:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="河南卫视" rtp://-name="河南卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000476/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",河南卫视
+http://192.168.2.1:5140/rtp/239.76.253.202:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="深圳卫视" rtp://-name="深圳卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000066/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",深圳卫视
+http://192.168.2.1:5140/rtp/239.76.253.188:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖北卫视" rtp://-name="湖北卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖北卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000159/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖北卫视
+http://192.168.2.1:5140/rtp/239.76.253.193:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="山东卫视" rtp://-name="山东卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000071/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",山东卫视
+http://192.168.2.1:5140/rtp/239.76.253.195:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="黑龙江卫视" rtp://-name="黑龙江卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/黑龙江卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000072/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",黑龙江卫视
+http://192.168.2.1:5140/rtp/239.76.253.200:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="吉林卫视" rtp://-name="吉林卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/吉林卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000475/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",吉林卫视
+http://192.168.2.1:5140/rtp/239.76.253.201:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="海南卫视" rtp://-name="海南卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000477/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",海南卫视
+http://192.168.2.1:5140/rtp/239.76.253.203:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="四川卫视" rtp://-name="四川卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000458/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",四川卫视
+http://192.168.2.1:5140/rtp/239.76.253.91:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="重庆卫视" rtp://-name="重庆卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/重庆卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000459/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",重庆卫视
+http://192.168.2.1:5140/rtp/239.76.253.92:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="广西卫视" rtp://-name="广西卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000512/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",广西卫视
+http://192.168.2.1:5140/rtp/239.76.254.54:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="陕西卫视" rtp://-name="陕西卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000514/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",陕西卫视
+http://192.168.2.1:5140/rtp/239.76.254.76:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="云南卫视" rtp://-name="云南卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/云南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000513/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",云南卫视
+http://192.168.2.1:5140/rtp/239.76.254.60:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="青海卫视" rtp://-name="青海卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/青海卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000516/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",青海卫视
+http://192.168.2.1:5140/rtp/239.76.254.132:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="甘肃卫视" rtp://-name="甘肃卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/甘肃卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000461/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",甘肃卫视
+http://192.168.2.1:5140/rtp/239.76.253.94:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="三沙卫视" rtp://-name="三沙卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三沙卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000396/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",三沙卫视
+http://192.168.2.1:5140/rtp/239.76.253.74:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="辽宁卫视" rtp://-name="辽宁卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000346/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",辽宁卫视
+http://192.168.2.1:5140/rtp/239.76.252.197:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="河北卫视" rtp://-name="河北卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000348/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",河北卫视
+http://192.168.2.1:5140/rtp/239.76.252.199:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="贵州卫视" rtp://-name="贵州卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/贵州卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000347/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",贵州卫视
+http://192.168.2.1:5140/rtp/239.76.252.198:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="厦门卫视" rtp://-name="厦门卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/厦门卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000375/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",厦门卫视
+http://192.168.2.1:5140/rtp/239.76.252.231:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="兵团卫视" rtp://-name="兵团卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/兵团卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000376/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",兵团卫视
+http://192.168.2.1:5140/rtp/239.76.252.232:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="延边卫视" rtp://-name="延边卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/延边卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000554/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",延边卫视
+http://192.168.2.1:5140/rtp/239.76.254.112:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="山西卫视" rtp://-name="山西卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000111/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",山西卫视
+http://192.168.2.1:5140/rtp/239.76.252.105:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="内蒙古卫视" rtp://-name="内蒙古卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙古卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000107/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",内蒙古卫视
+http://192.168.2.1:5140/rtp/239.76.252.106:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="宁夏卫视" rtp://-name="宁夏卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/宁夏卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000108/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",宁夏卫视
+http://192.168.2.1:5140/rtp/239.76.252.107:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="新疆卫视" rtp://-name="新疆卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新疆卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000116/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",新疆卫视
+http://192.168.2.1:5140/rtp/239.76.252.109:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="西藏卫视" rtp://-name="西藏卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000117/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",西藏卫视
+http://192.168.2.1:5140/rtp/239.76.252.108:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="康巴卫视" rtp://-name="康巴卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康巴卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000411/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",康巴卫视
+http://192.168.2.1:5140/rtp/239.76.253.89:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="山东教育卫视" rtp://-name="山东教育卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东教育卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000341/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",山东教育卫视
+http://192.168.2.1:5140/rtp/239.76.252.191:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="江西卫视" rtp://-name="江西卫视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000356/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",江西卫视
+http://192.168.2.1:5140/rtp/239.76.252.225:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南导视" rtp://-name="湖南导视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南导视.png" group-title="湖南频道",湖南导视
+http://192.168.2.1:5140/rtp/239.76.252.131:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南经视" rtp://-name="湖南经视" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南经视.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000234/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南经视
+http://192.168.2.1:5140/rtp/239.76.252.116:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.103:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南娱乐" rtp://-name="湖南娱乐" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南娱乐.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000239/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南娱乐
+http://192.168.2.1:5140/rtp/239.76.252.121:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.105:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南电影" rtp://-name="湖南电影" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南电影.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000237/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南电影
+http://192.168.2.1:5140/rtp/239.76.252.119:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.106:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南电视剧" rtp://-name="湖南电视剧" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南电视剧.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000236/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南电视剧
+http://192.168.2.1:5140/rtp/239.76.252.118:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.108:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南都市" rtp://-name="湖南都市" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南都市.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000235/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南都市
+http://192.168.2.1:5140/rtp/239.76.252.117:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.104:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南国际" rtp://-name="湖南国际" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南国际.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000242/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南国际
+http://192.168.2.1:5140/rtp/239.76.252.124:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.102:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南爱晚" rtp://-name="湖南爱晚" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南爱晚.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000241/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南爱晚
+http://192.168.2.1:5140/rtp/239.76.252.123:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.109:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湖南教育" rtp://-name="湖南教育" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南教育.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000377/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湖南教育
+http://192.168.2.1:5140/rtp/239.76.252.233:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="金鹰卡通" rtp://-name="金鹰卡通" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金鹰卡通.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000238/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金鹰卡通
+http://192.168.2.1:5140/rtp/239.76.252.120:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.107:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="金鹰纪实" rtp://-name="金鹰纪实" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金鹰纪实.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000240/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金鹰纪实
+http://192.168.2.1:5140/rtp/239.76.252.122:9000?fcc=124.232.149.47:15970
+http://192.168.2.1:5140/rtp/239.76.253.110:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="茶频道" rtp://-name="茶频道" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/茶频道.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000383/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",茶频道
+http://192.168.2.1:5140/rtp/239.76.252.239:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="先锋乒羽" rtp://-name="先锋乒羽" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/先锋乒羽.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000115/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",先锋乒羽
+http://192.168.2.1:5140/rtp/239.76.253.51:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="长沙新闻" rtp://-name="长沙新闻" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/长沙新闻.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000232/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",长沙新闻
+http://192.168.2.1:5140/rtp/239.76.253.121:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="长沙政法" rtp://-name="长沙政法" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/长沙政法.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000229/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",长沙政法
+http://192.168.2.1:5140/rtp/239.76.253.122:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="长沙文旅" rtp://-name="长沙文旅" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/长沙文旅.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000589/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",长沙文旅
+http://192.168.2.1:5140/rtp/239.76.255.42:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="宁乡综合" rtp://-name="宁乡综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/宁乡综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000511/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",宁乡综合
+http://192.168.2.1:5140/rtp/239.76.255.57:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="长沙县新闻综合" rtp://-name="长沙县新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/长沙县新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000566/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",长沙县新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.33:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="娄底公共" rtp://-name="娄底公共" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/娄底公共.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000418/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",娄底公共
+http://192.168.2.1:5140/rtp/239.76.255.19:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="娄底综合" rtp://-name="娄底综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/娄底综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000417/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",娄底综合
+http://192.168.2.1:5140/rtp/239.76.255.18:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="岳阳文旅都市" rtp://-name="岳阳文旅都市" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/岳阳文旅都市.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000571/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",岳阳文旅都市
+http://192.168.2.1:5140/rtp/239.76.255.8:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="岳阳新闻综合" rtp://-name="岳阳新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/岳阳新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000570/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",岳阳新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.7:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="常德新闻综合" rtp://-name="常德新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/常德新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000351/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",常德新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.10:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="张家界公共" rtp://-name="张家界公共" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/张家界公共.png" group-title="湖南频道",张家界公共
+http://192.168.2.1:5140/rtp/239.76.252.235:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="张家界新闻综合" rtp://-name="张家界新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/张家界新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000378/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",张家界新闻综合
+http://192.168.2.1:5140/rtp/239.76.252.234:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="怀化新闻综合" rtp://-name="怀化新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/怀化新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000353/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",怀化新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.12:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="株洲新闻综合" rtp://-name="株洲新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/株洲新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000195/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",株洲新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.1:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="永州新闻综合" rtp://-name="永州新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/永州新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000491/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",永州新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.23:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="永州经济生活" rtp://-name="永州经济生活" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/永州经济生活.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000492/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",永州经济生活
+http://192.168.2.1:5140/rtp/239.76.255.24:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="浏阳新闻" rtp://-name="浏阳新闻" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浏阳新闻.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000334/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",浏阳新闻
+http://192.168.2.1:5140/rtp/239.76.255.6:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湘潭新闻综合" rtp://-name="湘潭新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湘潭新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000308/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湘潭新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.4:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湘西公共" rtp://-name="湘西公共" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湘西公共.png" group-title="湖南频道",湘西公共
+http://192.168.2.1:5140/rtp/239.76.252.210:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湘西文化旅游" rtp://-name="湘西文化旅游" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湘西文化旅游.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000556/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湘西文化旅游
+http://192.168.2.1:5140/rtp/239.76.252.209:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="湘西新闻综合" rtp://-name="湘西新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湘西新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000555/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",湘西新闻综合
+http://192.168.2.1:5140/rtp/239.76.252.208:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="益阳公共" rtp://-name="益阳公共" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/益阳公共.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000413/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",益阳公共
+http://192.168.2.1:5140/rtp/239.76.255.16:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="益阳新闻综合" rtp://-name="益阳新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/益阳新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000412/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",益阳新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.15:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="衡阳文旅法治" rtp://-name="衡阳文旅法治" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/衡阳文旅法治.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000416/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",衡阳文旅法治
+http://192.168.2.1:5140/rtp/239.76.255.14:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="衡阳新闻综合" rtp://-name="衡阳新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/衡阳新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000415/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",衡阳新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.13:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="邵阳文旅民生" rtp://-name="邵阳文旅民生" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/邵阳文旅民生.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000453/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",邵阳文旅民生
+http://192.168.2.1:5140/rtp/239.76.255.22:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="邵阳新闻综合" rtp://-name="邵阳新闻综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/邵阳新闻综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000452/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",邵阳新闻综合
+http://192.168.2.1:5140/rtp/239.76.255.21:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="郴州文旅" rtp://-name="郴州文旅" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/郴州文旅.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000576/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",郴州文旅
+http://192.168.2.1:5140/rtp/239.76.255.39:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="郴州综合" rtp://-name="郴州综合" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/郴州综合.png" group-title="湖南频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000397/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",郴州综合
+http://192.168.2.1:5140/rtp/239.76.253.75:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CHC动作电影" rtp://-name="CHC动作电影" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC动作电影.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000386/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CHC动作电影
+http://192.168.2.1:5140/rtp/239.76.252.243:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CHC影迷电影" rtp://-name="CHC影迷电影" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC影迷电影.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000385/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CHC影迷电影
+http://192.168.2.1:5140/rtp/239.76.252.242:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CHC家庭影院" rtp://-name="CHC家庭影院" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC家庭影院.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000384/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CHC家庭影院
+http://192.168.2.1:5140/rtp/239.76.252.241:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="北京纪实科教" rtp://-name="北京纪实科教" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京纪实科教.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000575/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",北京纪实科教
+http://192.168.2.1:5140/rtp/239.76.254.65:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="都市剧场" rtp://-name="都市剧场" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/都市剧场.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000585/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",都市剧场
+http://192.168.2.1:5140/rtp/239.76.254.74:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="金色学堂" rtp://-name="金色学堂" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金色学堂.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000586/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金色学堂
+http://192.168.2.1:5140/rtp/239.76.254.75:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="东方财经" rtp://-name="东方财经" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方财经.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000580/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",东方财经
+http://192.168.2.1:5140/rtp/239.76.254.69:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="法治天地" rtp://-name="法治天地" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/法治天地.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000578/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",法治天地
+http://192.168.2.1:5140/rtp/239.76.254.67:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="乐游" rtp://-name="乐游" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/乐游.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000579/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",乐游
+http://192.168.2.1:5140/rtp/239.76.254.68:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="游戏风云" rtp://-name="游戏风云" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/游戏风云.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000582/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",游戏风云
+http://192.168.2.1:5140/rtp/239.76.254.71:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="生活时尚" rtp://-name="生活时尚" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/生活时尚.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000584/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",生活时尚
+http://192.168.2.1:5140/rtp/239.76.254.73:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="中国交通" rtp://-name="中国交通" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中国交通.png" group-title="数字频道",中国交通
+http://192.168.2.1:5140/rtp/239.76.254.100:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="中国天气" rtp://-name="中国天气" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中国天气.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000158/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",中国天气
+http://192.168.2.1:5140/rtp/239.76.253.61:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="优漫卡通" rtp://-name="优漫卡通" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/优漫卡通.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000059/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",优漫卡通
+http://192.168.2.1:5140/rtp/239.76.252.112:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="动漫秀场" rtp://-name="动漫秀场" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动漫秀场.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000581/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",动漫秀场
+http://192.168.2.1:5140/rtp/239.76.254.70:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="卡酷少儿" rtp://-name="卡酷少儿" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卡酷少儿.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000515/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",卡酷少儿
+http://192.168.2.1:5140/rtp/239.76.254.81:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="嘉佳卡通" rtp://-name="嘉佳卡通" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000374/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",嘉佳卡通
+http://192.168.2.1:5140/rtp/239.76.252.230:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="新动漫" rtp://-name="新动漫" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新动漫.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000387/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",新动漫
+http://192.168.2.1:5140/rtp/239.76.252.244:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="武术世界" rtp://-name="武术世界" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/武术世界.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000480/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",武术世界
+http://192.168.2.1:5140/rtp/239.76.252.181:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="河南梨园" rtp://-name="河南梨园" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河南梨园.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000478/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",河南梨园
+http://192.168.2.1:5140/rtp/239.76.252.179:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="环球奇观" rtp://-name="环球奇观" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/环球奇观.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000560/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",环球奇观
+http://192.168.2.1:5140/rtp/239.76.254.26:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="环球旅游" rtp://-name="环球旅游" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/环球旅游.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000484/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",环球旅游
+http://192.168.2.1:5140/rtp/239.76.254.46:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="生态环境" rtp://-name="生态环境" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/生态环境.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000534/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",生态环境
+http://192.168.2.1:5140/rtp/239.76.254.201:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="财富天下" rtp://-name="财富天下" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/财富天下.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000091/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",财富天下
+http://192.168.2.1:5140/rtp/239.76.253.18:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="书画" rtp://-name="书画" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/书画.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000399/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",书画
+http://192.168.2.1:5140/rtp/239.76.253.77:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="优优宝贝" rtp://-name="优优宝贝" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/优优宝贝.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000119/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",优优宝贝
+http://192.168.2.1:5140/rtp/239.76.253.13:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="四海钓鱼" rtp://-name="四海钓鱼" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四海钓鱼.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000054/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",四海钓鱼
+http://192.168.2.1:5140/rtp/239.76.253.4:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="快乐垂钓" rtp://-name="快乐垂钓" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/快乐垂钓.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000048/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",快乐垂钓
+http://192.168.2.1:5140/rtp/239.76.252.127:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="国学" rtp://-name="国学" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/国学.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000486/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",国学
+http://192.168.2.1:5140/rtp/239.76.254.48:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="天元围棋" rtp://-name="天元围棋" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天元围棋.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000113/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",天元围棋
+http://192.168.2.1:5140/rtp/239.76.253.2:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="收藏天下" rtp://-name="收藏天下" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/收藏天下.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000507/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",收藏天下
+http://192.168.2.1:5140/rtp/239.76.253.244:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="文物宝库" rtp://-name="文物宝库" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/文物宝库.png" group-title="数字频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000479/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",文物宝库
+http://192.168.2.1:5140/rtp/239.76.252.180:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="金鹰卡通" rtp://-name="金鹰卡通" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金鹰卡通.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000238/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金鹰卡通
+http://192.168.2.1:5140/rtp/239.76.252.120:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="CCTV14" rtp://-name="CCTV14" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000134/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CCTV14-少儿
+http://192.168.2.1:5140/rtp/239.76.253.164:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="动漫秀场" rtp://-name="动漫秀场" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动漫秀场.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000581/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",动漫秀场
+http://192.168.2.1:5140/rtp/239.76.254.70:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="卡酷少儿" rtp://-name="卡酷少儿" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卡酷少儿.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000515/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",卡酷少儿
+http://192.168.2.1:5140/rtp/239.76.254.81:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="优漫卡通" rtp://-name="优漫卡通" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/优漫卡通.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000059/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",优漫卡通
+http://192.168.2.1:5140/rtp/239.76.252.112:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="嘉佳卡通" rtp://-name="嘉佳卡通" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000374/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",嘉佳卡通
+http://192.168.2.1:5140/rtp/239.76.252.230:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="新动漫" rtp://-name="新动漫" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新动漫.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000387/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",新动漫
+http://192.168.2.1:5140/rtp/239.76.252.244:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 rtp://-id="优优宝贝" rtp://-name="优优宝贝" rtp://-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/优优宝贝.png" group-title="少儿频道" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000119/index.m3u8?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",优优宝贝
+http://192.168.2.1:5140/rtp/239.76.253.13:9000?fcc=124.232.149.47:15970
